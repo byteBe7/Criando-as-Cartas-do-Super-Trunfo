@@ -1,3 +1,5 @@
+# Criando-as-Cartas-do-Super-Trunfo
+Projeto em C - Cartas Super Trunfo
 #include <stdio.h>
 int main() {
     char estado1;
